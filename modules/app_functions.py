@@ -16,8 +16,8 @@
 
 # MAIN FILE
 # ///////////////////////////////////////////////////////////////
-from main import *
-
+from main import MainWindow
+from modules import Settings
 # WITH ACCESS TO MAIN WINDOW WIDGETS
 # ///////////////////////////////////////////////////////////////
 class AppFunctions(MainWindow):
